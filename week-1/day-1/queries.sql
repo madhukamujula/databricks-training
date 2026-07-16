@@ -1,5 +1,3 @@
-
-
 SELECT
 
 -- Display all employee details.
